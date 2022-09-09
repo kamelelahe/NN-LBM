@@ -1,0 +1,1 @@
+to run this code, simply modify run.sh file with your input parameters and write ./run in terminal

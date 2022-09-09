@@ -1,0 +1,1 @@
+mpirun	-np	6	./nonNewtonian	Berea400.dat	tmp/	400	400	0.0005	0.7	0.2	5	0	1.09

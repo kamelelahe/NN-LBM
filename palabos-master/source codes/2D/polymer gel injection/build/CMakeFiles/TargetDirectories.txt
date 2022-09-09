@@ -1,0 +1,4 @@
+/content/drive/My Drive/palabos/SA-Berea/differe-Cu/Berea-Cu15/build/CMakeFiles/rebuild_cache.dir
+/content/drive/My Drive/palabos/SA-Berea/differe-Cu/Berea-Cu15/build/CMakeFiles/edit_cache.dir
+/content/drive/My Drive/palabos/SA-Berea/differe-Cu/Berea-Cu15/build/CMakeFiles/nonNewtonian.dir
+/content/drive/My Drive/palabos/SA-Berea/differe-Cu/Berea-Cu15/build/CMakeFiles/palabos.dir
