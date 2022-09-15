@@ -13,14 +13,3 @@ Since polymer gel in very complex fluid, the research divided into several steps
     :align: right
     :alt: alternate text
     :figclass: align-right
-
-################################################################################
-1st Validation: Poiseuille
-################################################################################
-The first step is to check the model's validity with an analytical solution. Therefore, we simulated the Poiseuille flow of non-Newtonian fluid in this study and checked the result with an analytical solution. As shown in below figure, simulation results have excellent match with analytical solution.
---------------------------------------------------------------------------------
-.. figure::  /palabos-master/figs/NN-poiseuille.JPG
-    :align: right
-    :alt: alternate text
-    :figclass: align-right
-----------------------------------------------------------------------------
