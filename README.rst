@@ -34,8 +34,3 @@ It is required to check whether the developed code gives us valid results in por
     :align: center
     :alt: alternate text
     :figclass: align-center
---------------------------------------------------------------------------------
-.. figure::  /palabos-master/figs/DarcyLaw.jpg
-    :align: center
-    :alt: alternate text
-    :figclass: align-center
