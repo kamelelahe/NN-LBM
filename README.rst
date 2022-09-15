@@ -13,7 +13,7 @@ Since polymer gel in very complex fluid, the research divided into several steps
     :align: right
     :alt: alternate text
     :figclass: align-right
-----------------------------------------------------------------------------
+
 ################################################################################
 1st Validation: Poiseuille
 ################################################################################
