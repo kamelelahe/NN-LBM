@@ -36,3 +36,4 @@ It is required to check whether the developed code gives us valid results in por
     :figclass: align-center
     
     Figure 3 Berea pattern used in the simulation. The grains are represented in black, and the pore spaces are in white. The size is 1418 μm by 1418 μm, and the etch depth of the physical unit is 24.54 μm
+--------------------------------------------------------------------------------
