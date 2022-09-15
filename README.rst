@@ -14,3 +14,14 @@ Since polymer gel in very complex fluid, the research divided into several steps
     :figclass: align-right
     
     figure 1: Research methodology
+################################################################################
+1st Validation: Model validation of non-Newtonian fluid flow in simple geometry (Poiseuille)
+################################################################################
+The first step is to check the model's validity with an analytical solution. Therefore, we simulated the Poiseuille flow of non-Newtonian fluid in this study and checked the result with an analytical solution. As shown in below figure, simulation results have excellent match with analytical solution.
+--------------------------------------------------------------------------------
+.. figure::  /palabos-master/figs/NN-poiseuille.JPG
+    :align: center
+    :alt: alternate text
+    :figclass: align-right
+    
+    figure 2: Comparing the simulation result and analytical solution for normalized velocity profile of Poiseuille flow of non-Newtonian fluid of table 1. The comparison shows an excellent match
