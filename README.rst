@@ -34,3 +34,5 @@ It is required to check whether the developed code gives us valid results in por
     :align: center
     :alt: alternate text
     :figclass: align-center
+    
+    figure 2: Comparing the simulation result and analytical solution for normalized velocity profile of Poiseuille flow of non-Newtonian fluid of table 1. The comparison shows an excellent match
