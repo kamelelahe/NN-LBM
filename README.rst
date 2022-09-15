@@ -35,4 +35,4 @@ It is required to check whether the developed code gives us valid results in por
     :alt: alternate text
     :figclass: align-center
     
-    figure 2: Comparing the simulation result and analytical solution for normalized velocity profile of Poiseuille flow of non-Newtonian fluid of table 1. The comparison shows an excellent match
+    Figure 3 Berea pattern used in the simulation. The grains are represented in black, and the pore spaces are in white. The size is 1418 μm by 1418 μm, and the etch depth of the physical unit is 24.54 μm
