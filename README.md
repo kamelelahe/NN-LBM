@@ -1,3 +1,12 @@
 # NN-LBM
-This repository contains steps numerical simulation for fpolymer gel injection in porous media and steps to build ANN to reduce the compuational cost to a fraction of a second
-https://drive.google.com/file/d/1oeptW-TQrKqkVTgQLk9sJn77EKBPWngy/view?usp=sharing
+This repository contains steps numerical simulation for polymer gel injection in porous media and steps to build ANN to reduce the compuational cost to a fraction of a second
+
+##Metholology
+Since polymer gel in very complex fluid, the research divided into several steps as below to make sure about the reliability of the result.
+.. figure:: /palabos-master/figs/NN-Methodology.JPG
+    :align: right
+    :alt: alternate text
+    :figclass: align-right
+
+    Non-wetting fluid (purple) traveling through a spherepack.
+
