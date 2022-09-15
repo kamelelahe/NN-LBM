@@ -6,7 +6,7 @@ This repository contains steps numerical simulation for polymer gel injection in
 ################################################################################
 Methodology
 ################################################################################
-Since polymer gel in very complex fluid, the research divided into several steps as below to make sure about the reliability of the result.
+Since polymer gel in very complex fluid, the research divided into several steps as below to make sure about the reliability of the result. 
 --------------------------------------------------------------------------------
 .. figure::  /palabos-master/figs/NN-Methodology.JPG
     :align: right
@@ -44,3 +44,9 @@ It is required to check whether the developed code gives us valid results in por
     :figclass: align-center
     
     Figure 4 Validation of flow of Newtonian fluid in 2D Berea sample. The slope of this plot indicates permeability.
+################################################################################
+Simulation of polymer injection in porous media
+################################################################################
+We are now ready to simulate polymer gel injection in porous media. In /palabos-master/source codes/ folder, the developed code for simulating polymer gel inejction in 2D and 3D cases are available. Here, we als graphically depicted some of the simulation results.
+
+
