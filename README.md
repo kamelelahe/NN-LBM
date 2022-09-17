@@ -53,4 +53,7 @@ The simulation is also done for 3D cases in which 3D rock samples are extracted 
 https://user-images.githubusercontent.com/79846810/190848915-c6e7feba-82da-4e57-a1d1-a2f967acfea6.mp4
 
 
+<h4> Publications </h4>
+1-	Lattice Boltzmann Simulation of Cross-linked Polymer Gel Injection in Porous Media (submitted to “journal of computer and mathematics with applications”, under review)</br>
+2-	Design of Artificial Neural Network for Predicting the Reduction in Permeability of Porous Media as a Result of Polymer Gel Injection (submitted to “journal of  petroleum science and engineering”, under review)
 
