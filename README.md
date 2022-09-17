@@ -1,6 +1,7 @@
 <h1>NN-LBM</h1>
 <h2>library for simulating fluid flow in porous media</h2>
-<p>This repository contains steps numerical simulation for polymer gel injection in porous media and steps to build ANN to reduce the compuational cost to a fraction of a second</p>
+<p>This repository contains steps numerical simulation for polymer gel injection in porous media with Lattice Boltzmann method.
+Steps to build ANN to reduce the compuational cost is available on https://github.com/kamelelahe/ML-NN-LBM </p>
 
 <h3>Methodology</h3>
 <p>Since polymer gel in very complex fluid, the research divided into several steps as below to make sure about the reliability of the result.</p>
