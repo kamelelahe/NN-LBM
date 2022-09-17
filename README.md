@@ -32,6 +32,11 @@
 
 https://user-images.githubusercontent.com/79846810/190846409-dc48ece4-007d-4e92-bb5e-3c16c081f012.mp4
 
+<p>To take a closer look, Figure 6 summarizes the simulation procedure stages. This figure also indicated that polymer gel had changed the structure of porous media desirably.</P>
+<p align="center">
+<img src="https://github.com/kamelelahe/NN-LBM/blob/master/palabos-master/figs/changesGeom.JPG">
+</p>
+
 The simulation is also done for 3D cases in which 3D rock samples are extracted from https://www.digitalrocksportal.org/ . Here, we also graphically depicted some of the simulation results for 3D cases.
 https://user-images.githubusercontent.com/79846810/190847592-c6ca8ef6-53f1-45af-b5ec-6366a6bd1f1f.mp4
 
@@ -42,5 +47,9 @@ https://user-images.githubusercontent.com/79846810/190847592-c6ca8ef6-53f1-45af-
 <p align="center">
 <img src="https://github.com/kamelelahe/NN-LBM/blob/master/palabos-master/figs/bentheimer3DFields.JPG">
 </p>
+
+
+https://user-images.githubusercontent.com/79846810/190848915-c6e7feba-82da-4e57-a1d1-a2f967acfea6.mp4
+
 
 
